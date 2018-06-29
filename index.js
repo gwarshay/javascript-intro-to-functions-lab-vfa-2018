@@ -3,4 +3,4 @@ function shout(string) {
   string.toUpperCase()
 }
 
-shout
+shout("hello");
